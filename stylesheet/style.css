@@ -70,8 +70,9 @@ img {
 
 #bebidas {
     padding-top: 10px;
-    background-color: rgba(102, 17, 17, 0.842);
     padding-left: 10px;
+    background-color: rgba(102, 17, 17, 0.842);
+    padding-bottom: 100vh;
 }
 
 #bebidas * {
